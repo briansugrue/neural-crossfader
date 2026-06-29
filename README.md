@@ -1,4 +1,4 @@
-# Neural Crossfader
+# neural-crossfader
 
 **Neural Crossfader** is a Python script that uses Stable Audio 3's inpainting capabilities to generate seamless transitions between two audio tracks.
 
