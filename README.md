@@ -1,6 +1,6 @@
 # Neural Crossfader
 
-Neural Crossfader is a Python script that uses Stable Audio 3's inpainting capabilities to generate AI-assisted transitions between two audio tracks.
+Neural Crossfader is a Python script that uses the audio inpainting capabilities of Stable Audio 3 to generate AI-assisted transitions between two audio tracks.
 
 Instead of relying solely on a traditional crossfade, the script builds a short overlap region between the outgoing and incoming track and asks Stable Audio to regenerate that region from a text prompt. The result is a machine learning-assisted transition that can sound more natural, or more stylistic, than a conventional fade — while the audio on either side of the transition is left completely untouched.
 
