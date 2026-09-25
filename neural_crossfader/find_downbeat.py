@@ -9,7 +9,7 @@ that window — useful when a DJ tool's display only shows rounded values
 TRACK_BEATGRID.
 
 Usage:
-    python find_downbeat.py "C:\path\to\snoop_dogg.wav" 0.0 2.0
+    python find_downbeat.py "C:\path\to\track_1.wav" 0.0 2.0
 
 This searches for onsets between 0.0s and 2.0s and prints each one found,
 with millisecond precision, strongest-first. The loudest/sharpest onset in
